@@ -3,6 +3,8 @@ Planned for Version 1.1
 - Changed Signal for Data (server & client)
 - Allow client to request private data created on server (This won't allow requesting other player's data)
 - Find a way to reduce/remove the time for updating values for players
+- Save Vector3,CFrame,Color3 without converting them into a table first
+- Service.Moderation.Duration - A table where you can choose, 1 day, 1 week, 1 month, 1 year - without typing in the seconds for the :Ban() method
 
 More config options: 
 - Disable Data Saving
