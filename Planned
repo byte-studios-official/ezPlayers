@@ -6,5 +6,6 @@ Planned for Version 1.2
 - Config Option to disable automatic data saving
 - Find a way to reduce/remove the time for updating values for players
 - More Player Properties & Methods for Server & Client like :Freeze() .isFrozen WalkSpeed JumpPower etc.
+- Add more Signals to Player & Data like Data.Changed:Wait() player.dataAdded player.dataRemoved player.dataLoaded player.dataChanged
 
 Price will change to $1.99 if the library is finished
