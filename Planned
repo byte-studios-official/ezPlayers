@@ -1,11 +1,12 @@
 Planned for Version 1.2
 
 - Add Game Examples
-- Track Player's playtime (Current Session, Average, Total)
+- Track Player's playtime (Current Session, Average, Total) 
 - Config Option for Custom Characters
-- Config Option to disable automatic data saving
+- Config Option to disable automatic data saving [DONE]
 - Find a way to reduce/remove the time for updating values for players
 - More Player Properties & Methods for Server & Client like :Freeze() .isFrozen WalkSpeed JumpPower etc.
 - Add more Signals to Player & Data like Data.Changed:Wait() player.dataAdded player.dataRemoved player.dataLoaded player.dataChanged
+- Fix that some Signals will yield the whole library [DONE]
 
 Price will change to $1.99 if the library is finished
