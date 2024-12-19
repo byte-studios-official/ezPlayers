@@ -2,7 +2,7 @@ Planned for Version 1.2
 
 - Add Game Examples
 - Track Player's playtime (Current Session, Average, Total) 
-- More Player Properties & Methods for Server & Client like :Freeze() .isFrozen WalkSpeed JumpPower etc.
+- More Player Properties & Methods for Server & Client like :Freeze() .isFrozen WalkSpeed JumpPower etc. [DONE]
 - Add more Signals to Player & Data like Data.Changed:Wait() [DONE]
 - Fix that some Signals will yield the whole library [DONE]
 
